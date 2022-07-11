@@ -12,36 +12,5 @@
   "excerpt": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/Luciquad/credit\/main\/sonicspeedsimulator.lua\"))()",
   "slug": "",
   "featured_image": { "thumbnail": "https:\/\/rbxscripts.net\/wp-content\/uploads\/2022\/05\/Screenshot_85-740x416.png" }
-  },
-  {
-  "id": 3,
-  "title": "SkyWars: VIP, Mega Vip, box mine",
-  "excerpt": "loadstring(game:HttpGet(\"https:\/pastebin.com\/raw\/CTBHtCd7\"))()",
-  "date": "2022-07-10 2:38:57",
-  "slug": "skywars-autofarm-vip-mega-vip-mine-aura-box-mine-etc",
-  "featured_image": { "thumbnail": "https:\/\/github.com\/TheREBLEX\/ReblexDownload\/raw/main\/Skywars%20script%20offioaHub%20v4.png" }
-},
-{
-  "id": 4,
-  "title": "SkyWars: VIP, Mega Vip, Hit box, etc",
-  "excerpt": "loadstring(game:HttpGet(\"https:\/\/paste.ee\/r\/r9gnA\"))()",
-  "date": "2022-07-10 2:55:57",
-  "slug": "skywars-autofarm-vip-mega-vip-mine-aura-hit-box-etc",
-  "featured_image": { "thumbnail": "https:\/\/github.com\/TheREBLEX\/GameHub-JSON\/raw\/main\/Sin%20t%C3%ADtulo.png" }
-},
-{
-  "id": 5,
-  "title": "Dragon ball rage | Auto Zenkai, Auto Deffense Auto Energy, etc",
-  "excerpt": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/rubicmaster\/my_scripts\/main\/Dragon_ball_rage\"))()",
-  "date": "2022-07-10 3:45:57",
-  "slug": "dragon-ball-rage-auto-zenkai-auto-deffense-etc",
-  "featured_image": { "thumbnail": "https:\/\/github.com\/TheREBLEX\/GameHub-JSON\/raw\/main\/Dragon%20ball%20rage.png" }
-},
-{
-  "id": 6,
-  "title": "T-Titans Battlegrounds | Infinte ammo, HitBox, etc",
-  "excerpt": "loadstring(game:HttpGet(\"https:\/\/pastebin.com\/raw\/RA2Z4x75\"))()",
-  "date": "2022-07-10 17:40:57",
-  "slug": "T-Titans-Battlegrounds-infinite-ammo",
-  "featured_image": { "thumbnail": "https:\/\/github.com\/TheREBLEX\/GameHub-JSON\/raw\/main\/TItansscriptnose.png" }
-}]
+  }
+]
