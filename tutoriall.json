@@ -138,7 +138,7 @@
     "excerpt": "loadstring(game:HttpGet(\"https:\/\/pastebin.com\/raw\/2B9Uq6Cm\"))()",
     "date": "2022-07-10 17:40:57",
     "slug": "legends-of-speed-script-gg",
-    "featured_image": { "thumbnail": "https:\/\/repository-images.githubusercontent.com\/230387740\/f3658200-3abc-11ea-973a-b024e3a60673" }
+    "featured_image": { "thumbnail": "https:\/\/tr.rbxcdn.com\/b5734e084201699844fbc79fbe4d3fd8\/150\/150\/Image\/Jpeg" }
   
   },
   {
@@ -161,12 +161,51 @@
   },
   {
     "id": 19,
-    "title": "Fle the facility | esp, etc",
-    "excerpt": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/TheREBLEX\/GameHub-JSON/main\/script%20flee%20the%20facility\"))()",
+    "title": " VAPE | Bed Wars | esp, etc",
+    "excerpt": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/7GrandDadPGN\/VapeV4ForRoblox\/main\/NewMainScript.lua\"))()",
     "date": "2022-07-10 17:40:57",
-    "slug": "fle-the-facility",
-    "featured_image": { "thumbnail": "https:\/\/github.com\/TheREBLEX\/GameHub-JSON\/raw\/main\/Fle%20the%20facility%20script.png" }
+    "slug": "bed-wars-gg",
+    "featured_image": { "thumbnail": "https:\/\/blogger.googleusercontent.com\/img\/a\/AVvXsEg6UM3HPmaHMuy4_MWkMwPO6_EEju6Xt3Ko0jrUyOzkuNRqsU_L_nXr1gIn-kLGcXgZIkOMA2QUZFCxAvxtqi_n-knoC82xzSag9PmqtVb7nYZ5P0fl8Aih2rLIlm0ovGSxIojIoo76aK9hbcfmIDn66GFMA7QkZyXpbZSGpVz2CbeZxeRPwJQ4yKfEfA=w1600" }
+  
+  },
+  {
+    "id": 20,
+    "title": "Hide and seek",
+    "excerpt": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/Bebo-Mods\/BeboScripts\/main\/HideAndSeekExtreme.lua\"))()",
+    "date": "2022-07-10 17:40:57",
+    "slug": "hide-and-seek-gg",
+    "featured_image": { "thumbnail": "https:\/\/rbxscript.com\/images\/_Yw1l1TmuDC-image.jpg" }
+  
+  },
+  {
+  "id": 21,
+  "title": "Hide and seek",
+  "excerpt": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/Bebo-Mods\/BeboScripts\/main\/HideAndSeekExtreme.lua\"))()",
+  "date": "2022-07-10 17:40:57",
+  "slug": "hide-and-seek-gg",
+  "featured_image": { "thumbnail": "https:\/\/rbxscript.com\/images\/_Yw1l1TmuDC-image.jpg" }
+
+},
+{
+"id": 22,
+"title": "Mega Noob Simulator | auto click auto buy, auto farm",
+"excerpt": "loadstring(game:HttpGet(\"https:\/\/pastebin.com\/raw\/pR2V\"))()",
+"date": "2022-07-10 17:40:57",
+"slug": "mega-noob-simulator",
+"featured_image": { "thumbnail": "https:\/\/rbxscript.com\/images\/_RxJQDYzIAh-image.png" }
+
+},
+{
+  "id": 23,
+  "title": "Project Lazarus |Instakill",
+  "excerpt": "loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/PatricioTGN1\/TGNScriptsX\/main\/Project%20lazarus%20instakill.txt\"))()",
+  "date": "2022-07-10 17:40:57",
+  "slug": "auto-farm-project-lazarus-op",
+  "featured_image": { "thumbnail": "https:\/\/tr.rbxcdn.com\/b329b351f56e31a2dd79dee912fc651a\/150\/150\/Image\/Jpeg" }
   
   }
+
+
+  
   
 ]
