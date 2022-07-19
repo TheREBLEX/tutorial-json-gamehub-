@@ -1,4 +1,5 @@
-{
+[
+         {
             "Name": "Infinite Yield",
             "Url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
             "Description": "#1 Admin GUI, works in all games!",
@@ -1426,5 +1427,4 @@
             "ThumbNail": "https://i.imgur.com/WwNbYL6.png",
             "ID": "110"
         }
-    ]
-}
+]    
