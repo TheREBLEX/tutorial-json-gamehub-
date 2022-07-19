@@ -1426,5 +1426,33 @@
             "Description": "OverPowered GUI, #1, Lots Of Features!",
             "featured_image":{"thumbnail": "https://i.imgur.com/WwNbYL6.png"},
             "ID": "110"
+        },
+        {
+            "title": "Adopt Me Pet F R",
+            "Url": "https://raw.githubusercontent.com/TheREBLEX/tutorial-json-gamehub-/main/Adopt%20Me%20Script%20Pets%20FR",
+            "Description": "PET F and R Free",
+            "featured_image":{"thumbnail": "https://dlprivateserver.com/wp-content/uploads/2022/07/Todos-los-valores-comerciales-de-Roblox-Adopt-Me-Pet.jpg"},
+            "ID" : "nose"
+        },
+        {
+            "title": "Skywars Pro 2",
+            "Url": "https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Skywars%20Pro%202",
+            "Description": "Skywars pro 2 Auto Farm",
+            "featured_image":{"thumbnail": "https://tr.rbxcdn.com/7e2e3420b284caf1af198a3c69f9b9c8/768/432/Image/Png"},
+            "ID" : "nose1"
+        },
+        {
+            "title": "Skywars, Baseplate and hitbox",
+            "Url": "https://pastebin.com/raw/CTBHtCd7",
+            "Description": "#1 BasePlate Hitbox, Infinite Yield",
+            "featured_image":{"thumbnail": "https://github.com/TheREBLEX/ReblexDownload/raw/main/Skywars%20script%20offioaHub%20v4.png"},
+            "ID" : "nose2"
+        },
+        {
+            "title": "SkyWars Script autofarm",
+            "Url": "https://paste.ee/r/r9gnA",
+            "Description": "Auto Farm Vip Mega Vip",
+            "featured_image":{"thumbnail": "https://github.com/TheREBLEX/ReblexDownload/raw/main/bin/Skywars%20GUI.png"},
+            "ID" : "nose3"
         }
 ]    
