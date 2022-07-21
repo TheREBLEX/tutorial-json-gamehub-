@@ -1475,5 +1475,13 @@
             "Description": "Kill all",
             "featured_image":{"thumbnail": "https://tr.rbxcdn.com/c9124fb028d0f3ba8e6ae70fd3a1bbf8/768/432/Image/Png"},
             "ID" : "nose6"
-        }
+        },
+        {
+            "ID": "nose7",
+            "title": "Prison Life | Admin Script",
+            "excerpt": "https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife",
+            "Description": "prison life admin script gg",
+            "featured_image": { "thumbnail": "https://github.com/TheREBLEX/GameHub-JSON/raw/main/prison%20life%20admin%20script.png" }
+          
+          }
 ]    
