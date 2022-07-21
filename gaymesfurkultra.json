@@ -1466,14 +1466,14 @@
             "title": "SharkBite",
             "Url": "https://raw.githubusercontent.com/LOOF-sys/Roblox-Shit/main/SharkBite.lua",
             "Description": "Auto farm auto kill shark",
-            "featured_image":{"thumbnail": ""},
+            "featured_image":{"thumbnail": "https://tr.rbxcdn.com/ddd3005efcd5abe6240e23fcfdb77ec8/512/512/Image/Jpeg"},
             "ID" : "nose5"
         },
         {
             "title": "Big Paintball, kill all",
             "Url": "https://raw.githubusercontent.com/WetCheezit/Releases/main/Big-Paintball/KillAll.lua",
             "Description": "Kill all",
-            "featured_image":{"thumbnail": "https://tr.rbxcdn.com/ddd3005efcd5abe6240e23fcfdb77ec8/512/512/Image/Jpeg"},
+            "featured_image":{"thumbnail": "https://tr.rbxcdn.com/c9124fb028d0f3ba8e6ae70fd3a1bbf8/768/432/Image/Png"},
             "ID" : "nose6"
         }
 ]    
