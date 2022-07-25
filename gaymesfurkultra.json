@@ -316,7 +316,7 @@
         },
         {
             "title": "Da Hood",
-            "Url": "https://pastebin.com/raw/ZznBzbRp",
+            "Url": "https://pastebin.com/raw/SJazjZxD",
             "Description": "Exclusive GUI - Auto Farm, Kill All, Teleports & More!",
             "featured_image":{"thumbnail": "https://i.imgur.com/kzoM95H.png"},
             "ID": "76"
@@ -1480,8 +1480,16 @@
             "ID": "nose7",
             "title": "Prison Life | Admin Script",
             "excerpt": "https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife",
-            "Description": "prison life admin script gg",
+            "Description": "#1 Prison life admin script",
             "featured_image": { "thumbnail": "https://github.com/TheREBLEX/GameHub-JSON/raw/main/prison%20life%20admin%20script.png" }
+          
+          },
+          {
+            "ID": "nose8",
+            "title": "Mega Noob simulator | Auto Farm",
+            "excerpt": "https://raw.githubusercontent.com/thedragonslayer2/Supported-Games/main/Mr%20Jack",
+            "Description": "#1 Prison life admin script",
+            "featured_image": { "thumbnail": "https://tr.rbxcdn.com/4e8f955e69b309bad931538709de3b12/150/150/Image/Jpeg" }
           
           }
 ]    
