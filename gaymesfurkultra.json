@@ -1475,17 +1475,9 @@
             "Description": "Kill all",
             "featured_image":{"thumbnail": "https://tr.rbxcdn.com/c9124fb028d0f3ba8e6ae70fd3a1bbf8/768/432/Image/Png"},
             "ID" : "nose6"
-        },
-          {
-            "ID": "nose8",
-            "title": "Mega Noob simulator | Auto Farm",
-            "excerpt": "https://raw.githubusercontent.com/thedragonslayer2/Supported-Games/main/Mr%20Jack",
-            "Description": "#1 AutoFarm, ETC !",
-            "featured_image": { "thumbnail": "https://tr.rbxcdn.com/4e8f955e69b309bad931538709de3b12/150/150/Image/Jpeg" }
-          
-          },  
+        },  
            {
-            "ID": "nose9",
+            "ID": "nose8",
             "title": "Piggy",
             "excerpt": "https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Piggy",
             "Description": "Teleports key, etc",
